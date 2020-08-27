@@ -6,9 +6,9 @@ Weather App é um aplicativo que exibe informações climáticas baseado na loca
 
 ## 🎥 Algumas imagens do projeto
 
-![alt text](https://i.imgur.com/LFgVvt4.gif)
+![alt text](https://i.imgur.com/zj5ej07.gif)
 
-Clique [aqui](https://www.dropbox.com/s/7qno7v3wdhscxyq/20200825_204245.mp4?dl=0) para ver um vídeo do projeto em execução
+Clique [aqui](https://youtu.be/iXha5-V1SLA?t=18) para ver um vídeo do projeto em execução
 
 ## Funcionalidades
 
