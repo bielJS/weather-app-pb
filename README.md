@@ -23,7 +23,7 @@ Dark Mode.
 - **react-native** — Biblioteca JavaScript usada para criar aplicações nativas
 - **expo** — Plataforma utilizada para desenvolver aplicativos móveis
 - **axios** — Biblioteca JavaScript para fazer requests a API
-- **styled-components** — Permite utilizar CSS através do JavaScript
+- **styled-components** — Aplicação de CSS utilizando JavaScript
 
 ## 🚧 Executando o projeto
 
